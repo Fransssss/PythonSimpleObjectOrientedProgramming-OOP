@@ -1,3 +1,4 @@
+# author: Fransiskus Agapa
 from student import Student  # this calls the student class
 
 print("\n== OOP Simple Menu ==")
